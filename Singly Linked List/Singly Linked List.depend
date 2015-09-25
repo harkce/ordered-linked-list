@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1442931137 source:d:\programming\cpp\linked list\singly linked list\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"list.hpp"
+	"list.cpp"
+
+1442929537 d:\programming\cpp\linked list\singly linked list\list.hpp
+
+1442956133 d:\programming\cpp\linked list\singly linked list\list.cpp
+	"list.hpp"
+
